@@ -14,7 +14,7 @@ I hope you can somehow take advantage of the resources available here. So, let's
 
 The notebooks available in this repository are briefly introduced in this preview, but you will also find more detailed information about each subject diving into them. Another important remark is that all satellite imagery used during these practices are open data from the **Sentinel-2** satellites, **Copernicus constellation**.
 
-There are currently 3 notebooks available:
+There are currently 4 notebooks available:
 
 #### 1. Sentinel-2-Image-processing
 Basics of remote sensing using satellite imagery. How to load images, create raster composites, clip raster as well as saving to disk new raster files. We start creating **true color** composites, and then we go for a quick introduction to geopandas, when we load up a **shapefile** and use it as a **mask** to clip our true color composite.
